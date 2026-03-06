@@ -75,28 +75,6 @@ O site apresenta informações sobre possíveis impactos do excesso de telas:
 ### Interface Responsiva
 
 O layout se adapta automaticamente para diferentes resoluções de tela, garantindo boa experiência em qualquer dispositivo.
-
----
-
-# Demonstração da Aplicação
-
-<div align="center">
-  <img src="https://via.placeholder.com/900x450.png?text=Calculadora+LessScreen" width="80%">
-  <p><em>Demonstração da calculadora de tempo de tela.</em></p>
-</div>
-
----
-
-# Acesse o Projeto Online
-
-<div align="center">
-
-<a href="https://hyaakk.github.io/frontend-labs/" target="_blank">
-<img src="https://img.shields.io/badge/-ACESSAR PROJETO-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
 ---
 
 # Tecnologias Utilizadas
