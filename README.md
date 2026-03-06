@@ -2,7 +2,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"/>
 </div>
 
-<img width="200" height="113" alt="image" src="https://github.com/user-attachments/assets/2098df6a-e4af-492d-8aa8-10d943111e50" />
+![lucario](https://github.com/user-attachments/assets/27f30814-4dd6-49db-8245-7be04160e38c)
+
 
 ###
 
