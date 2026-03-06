@@ -1,5 +1,5 @@
 <div align="right">
-  <img width="50" height="60" alt="star" src="https://github.com/user-attachments/assets/faaa998a-6ee7-48f8-95d1-f8ca3565cd01" />
+  <img width="50" height="60" alt="star" src="" />
 </div>
 
 <div align="left">
@@ -90,4 +90,4 @@ Manipulação do DOM e lógica da calculadora.
 
 ---
 
-# Estrutura do Projeto
+### Link Para Acesso
