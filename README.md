@@ -2,8 +2,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"/>
 </div>
 
-<div>
-  ![lucario](https://github.com/user-attachments/assets/27f30814-4dd6-49db-8245-7be04160e38c)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/27f30814-4dd6-49db-8245-7be04160e38c" alt="lucario" width="400">
 </div>
 
 
